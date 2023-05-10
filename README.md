@@ -1,4 +1,4 @@
-# demo github training
+# demo-github-training
 ## subheader
 
 Algen T. Caburnay
